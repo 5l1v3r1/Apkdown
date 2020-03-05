@@ -10,6 +10,9 @@ cd Apkdown
 ls
 python3 apkdown.py
 ```
+```
+pip3 install -r requirement.txt
+```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp +62 85775433901
