@@ -1,5 +1,5 @@
 # Apkdown
-*Download aplikasi apapun di terminal*
+*Download adalah transmisi file dari internet ke komputer client/pengguna dapat dikatakan juga proses penerimaan atau pengambilan file dari internet/server ke komputer pribadi.*
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
