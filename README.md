@@ -2,7 +2,7 @@
 <h5 align="center">Download adalah transmisi file dari internet ke komputer client/pengguna dapat dikatakan juga proses penerimaan atau pengambilan file dari internet/server ke komputer pribadi.</h5>
 
 <p align="center">
-  <a href="www.python.org">
+  <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Language-Python3-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Apkdown/blob/master/LICENSE">
