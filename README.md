@@ -51,7 +51,7 @@ NB          : Manusia gax ada yang sempurna
 ### Installisasi:
 ```text
 git clone https://github.com/stepbystepexe/Apkdown
-cd Useragent
+cd Apkdown
 ls
 chmod +x
 ./apkdown.py
